@@ -1,0 +1,13 @@
+{
+    "source": "USD",
+    "rates": {
+        "COP": 3721.757565,
+        "EUR": 0.85996,
+        "MXN": 17.982553,
+        "CAD": 1.39086,
+        "CNY": 6.987899
+    },
+    "timestamp": 1768176151,
+    "processed_at": "2026-01-12 23:29:11",
+    "is_fallback": false
+}

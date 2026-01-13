@@ -1,0 +1,17 @@
+2026-01-12 17:31:39,415 | INFO | COP obtenido desde open_er
+2026-01-12 17:31:39,623 | INFO | EUR obtenido desde open_er
+2026-01-12 17:31:39,862 | INFO | MXN obtenido desde open_er
+2026-01-12 17:31:40,072 | INFO | CAD obtenido desde open_er
+2026-01-12 17:31:40,225 | INFO | Tasas procesadas correctamente: {'COP': 3721.757565, 'EUR': 0.85996, 'MXN': 17.982553, 'CAD': 1.39086}
+2026-01-12 18:28:05,303 | INFO | Inicio del proceso
+2026-01-12 18:28:18,400 | WARNING | Fallo COP en exchangerate: Rate limit excedido despues de varios intentos
+2026-01-12 18:28:18,624 | INFO | COP obtenido desde open_er con valor de 3721.757565
+2026-01-12 18:28:31,581 | WARNING | Fallo EUR en exchangerate: Rate limit excedido despues de varios intentos
+2026-01-12 18:28:31,788 | INFO | EUR obtenido desde open_er con valor de 0.85996
+2026-01-12 18:28:44,750 | WARNING | Fallo MXN en exchangerate: Rate limit excedido despues de varios intentos
+2026-01-12 18:28:44,941 | INFO | MXN obtenido desde open_er con valor de 17.982553
+2026-01-12 18:28:57,957 | WARNING | Fallo CAD en exchangerate: Rate limit excedido despues de varios intentos
+2026-01-12 18:28:58,176 | INFO | CAD obtenido desde open_er con valor de 1.39086
+2026-01-12 18:29:11,224 | WARNING | Fallo CNY en exchangerate: Rate limit excedido despues de varios intentos
+2026-01-12 18:29:11,427 | INFO | CNY obtenido desde open_er con valor de 6.987899
+2026-01-12 18:29:11,568 | INFO | Tasas procesadas correctamente: {'COP': 3721.757565, 'EUR': 0.85996, 'MXN': 17.982553, 'CAD': 1.39086, 'CNY': 6.987899}
